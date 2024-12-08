@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Rishi Deshpande</h1>
+<h1 align="center">Hi 👋, I'm Rishi (Sushrut) Deshpande</h1>
 <h4 align="center">High-achieving high-school student with a track record of academic excellence and extra-curricular achievements. 
   <br>Diligent and thoughtful individual who is interested in working on hands-on experiential projects.</h4>
 

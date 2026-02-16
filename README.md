@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h4 align="center">High-achieving high-school student with a track record of academic excellence and extra-curricular achievements. 
   <br>Diligent and thoughtful individual who is interested in working on hands-on experiential projects.</h4>
 
-- 🔭 I’m currently working on preparing for [USACO Bronze](https://github.com/rishidesh6/USACO-Bronze)
+- 🔭 I’m currently working on preparing for [USACO](https://github.com/rishidesh6/USACO-Bronze)
 
 - 🌱 I’m currently learning **Flutter and JavaScript**
 
